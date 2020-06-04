@@ -28,6 +28,24 @@ for this new reality.
 ### 2021
 [Winter]()
 
+## Learning Outcomes
+By the end of this course, students will:
+1.	Gain a high-level understanding of the various domains that make up the Data Science landscape including Data 
+Analytics, Data Science, Data Engineering, Machine Learning, and Artificial Intelligence. This will include applications 
+in both research and industry. 
+2.	Develop an intermediate level of proficiency with Python and common Data Science libraries, such as Numpy, Pandas, 
+Matplotlib, SciPy, Statsmodels, and Scikit-Learn. Additionally, students will be exposed to important coding best 
+practices such as documentation, version control, logging, and project structure.
+3.	Develop a solid grounding in core Data Science areas including data collection and cleaning, visualization, applied 
+machine learning, and statistical inference. 
+4.	Learn how to navigate through the Data Science lifecycle: Get Data, Clean Data, Analyze Data, Visualize Data, Answer 
+Questions with Data, Predict with Data.
+5.	Learn how to tell stories with data. It is not good enough to simply generate summary statistics and graphs. A Data 
+Scientist must be able to use data to tell a story, which involves a structured approach for communicating data insights 
+and involves a combination of three key elements: data, visuals, and narrative.
+6.	Be prepared to enter upper-level courses in Statistics (ECE368 Probabilistic Reasoning, MIE1413: Statistical Models 
+in Empirical Research), Machine Learning (MIE1516HS: Structured Learning and Inference, ECE1513H: Introduction to 
+Machine Learning).), and Computer Science (ECE1762H Algorithms and Data Structures, ECE1747H Parallel Programming).
 
 ## Prerequisites
 1.	APS106 – Fundamentals of Computer Programming
