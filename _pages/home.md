@@ -35,5 +35,5 @@ for this new reality.
 3.	MAT187 – Calculus II
 4.	MAT188 – Linear Algebra
 5.	CME263 – Probability Theory for Civil and Mineral Engineers
-6.	LinkedIn-Learning: Python Essential Training (4h 45m) – This online course is a mandatory prerequisite for any 
-student taking this course.
+6.	LinkedIn-Learning – Python Essential Training (This online course is a mandatory prerequisite for any 
+student taking this course)
