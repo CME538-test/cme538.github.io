@@ -26,7 +26,7 @@ for this new reality.
 
 ## Semesters
 ### 2021
-[Winter](https://github.com/CME538/CME538-winter-2020-website.git)
+[Winter](https://github.com/CME538/CME538-winter-2020-website)
 
 ## Learning Outcomes
 By the end of this course, students will:
