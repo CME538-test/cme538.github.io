@@ -27,3 +27,13 @@ for this new reality.
 ## Semesters
 ### 2021
 [Winter]()
+
+
+## Prerequisites
+1.	APS106 – Fundamentals of Computer Programming
+2.	MAT186 – Calculus I
+3.	MAT187 – Calculus II
+4.	MAT188 – Linear Algebra
+5.	CME263 – Probability Theory for Civil and Mineral Engineers
+6.	LinkedIn-Learning: Python Essential Training (4h 45m) – This online course is a mandatory prerequisite for any 
+student taking this course.
