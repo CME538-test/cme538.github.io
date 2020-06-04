@@ -2,7 +2,7 @@
 title: "Semesters"
 permalink: /semesters/
 layout: single
-author_profile: false
+author_profile: true
 toc: true
 toc_label: Content
 toc_icon: border-all
