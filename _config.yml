@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sebastian D. Goodfellow"
+  name             : "Sebastian Goodfellow"
   avatar           : "/assets/images/sebastian_goodfellow_square.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "eeny, meeny, miny, **code**."
   location         : "Toronto, Canada"
