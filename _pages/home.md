@@ -13,7 +13,7 @@ Data Science is redefining how people and organizations solve challenging proble
  engineers in the 21st-century. This intermediate-level class bridges between APS106 (Fundamentals of Computer 
  Programming) and CME263 (Probability Theory for Civil and Mineral Engineers) and upper-level machine learning, 
  computer science and statistics courses. In this course, we explore key areas of Data Science including question 
- formulation, data collection and cleaning, visualization, applied machine learning, and statistical inference.  
+ formulation, data collection and cleaning, visualization, applied machine learning, and statistical inference. 
  All lessons are taught with code and a strong emphasis is placed on the development of a solid foundation in 
  programming. This course touches on a range of topics from visualization to machine learning which we believe serves 
  to enhance the learning experience for students by allowing them to gain an appreciation for the close interplay 
