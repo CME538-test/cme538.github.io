@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Semesters"
-    url: /semesters/
+  # - title: "Semesters"
+  #   url: /semesters/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
