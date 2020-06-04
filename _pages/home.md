@@ -1,6 +1,6 @@
 ---
 title: "CME538 - Introduction to Data Science"
-permalink: /overview/
+permalink: /
 layout: single
 author_profile: true
 toc: true
