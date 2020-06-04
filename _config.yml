@@ -99,6 +99,9 @@ author:
   location         : "Toronto, Canada"
   email            :
   links:
+    - label: "University of Toronto"
+      icon: "fas fa-fw fa-link"
+      url: "https://civmin.utoronto.ca/home/about-us/directory/professors/sebastian-goodfellow/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: sebi.goodfellow@utoronto.ca
