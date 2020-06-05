@@ -54,6 +54,6 @@ Machine Learning).), and Computer Science (ECE1762H Algorithms and Data Structur
 3.	MAT187 – Calculus II
 4.	MAT188 – Linear Algebra
 5.	CME263 – Probability Theory for Civil and Mineral Engineers
-6.	LinkedIn-Learning – Python Essential Training<br>
+6.	[LinkedIn-Learning](https://www.linkedin.com/learning-login/) – Python Essential Training<br>
     - This online course is a mandatory prerequisite for any student taking this course.<br>
     - LinkedIn-Learning is freely accessible to all UofT students with a valid UTORid.
