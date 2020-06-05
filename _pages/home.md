@@ -25,6 +25,7 @@ and maintenance of water systems, and many others. This course aims to prepare C
 for this new reality.
 
 ## Semesters
+Powered by [Just the Class](https://github.com/kevinlin1/just-the-class)
 ### 2021
 [Winter](https://cme538.github.io/CME538-winter-2020-website/)
 
